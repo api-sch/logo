@@ -44,5 +44,5 @@ Icon Designed by
 ---
 
 + [edit](https://github.com/api-sch/logo/edit/main/README.md)
-+ [apimacro/logo/](https://github.com/api-sch/logo/)
++ [apisch/logo/](https://github.com/api-sch/logo/)
 
